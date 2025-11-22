@@ -1,0 +1,5 @@
+{
+  "name": "MYP Grade Master",
+  "description": "A specialized GPA calculator for Middle Years Programme (MYP) students. Track scores for Criteria A-D across subjects like Chinese, English, Math, and Sciences to automatically calculate final grades and overall GPA.",
+  "requestFramePermissions": []
+}
